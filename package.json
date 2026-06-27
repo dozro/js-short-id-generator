@@ -1,6 +1,6 @@
 {
   "name": "@1ry/short-id",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple and efficient short ID generator for JavaScript and TypeScript.",
   "main": "./lib/index.js",
   "files": [
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/dozro/js-short-id-generator.git"
   },
-  "license": "UNLICENSED",
+  "license": "Unlicense",
   "author": {
     "name": "Rye",
     "email": "contact@itsrye.dev",
@@ -35,7 +35,8 @@
     "node": ">=12.0"
   },
   "keywords": [
-    "serializable",
+    "id",
+    "short-id",
     "typescript",
     "typescript-library"
   ],
